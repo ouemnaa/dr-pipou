@@ -1,0 +1,2 @@
+C:/Hackathon_Project/drpipou/android/app/.cxx/Debug/4g361l25/armeabi-v7a/CMakeFiles/edit_cache.dir
+C:/Hackathon_Project/drpipou/android/app/.cxx/Debug/4g361l25/armeabi-v7a/CMakeFiles/rebuild_cache.dir
